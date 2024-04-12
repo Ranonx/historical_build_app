@@ -38,7 +38,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="/Users/chowranon/Library/Mobile Documents/com~apple~CloudDocs/Documents/Personal ⛺️/Personal Improvement/Master of CS/my_flask_app/venv"
+VIRTUAL_ENV="/Users/chowranon/Library/Mobile Documents/com~apple~CloudDocs/Documents/Personal ⛺️/Personal Improvement/Master of CS/hist-app/venv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
